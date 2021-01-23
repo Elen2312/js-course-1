@@ -10,10 +10,25 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82d78331-3f21-4cf4-959a-f3576cf5fc44" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/admin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temperature.js" afterDir="false" />
+    <list default="true" id="82d78331-3f21-4cf4-959a-f3576cf5fc44" name="Default Changelist" comment="game RPSLS">
+      <change afterPath="$PROJECT_DIR$/3_parameters.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3_parameters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_operations.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_operations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RPSLS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a_b.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/degree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/degree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/from_a_to_15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/from_a_to_15.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game.js" beforeDir="false" afterPath="$PROJECT_DIR$/game.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guess_the_number.html" beforeDir="false" afterPath="$PROJECT_DIR$/guess_the_number.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/number.js" beforeDir="false" afterPath="$PROJECT_DIR$/number.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temperature.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +44,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="hw-1" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lvDS6nccfykMv7wolDZ97VPfBu" />
@@ -44,7 +64,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="E:/Учеба" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -55,8 +75,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608468668486</updated>
-      <workItem from="1608468670275" duration="2655000" />
+      <workItem from="1608468670275" duration="3597000" />
+      <workItem from="1610880936199" duration="18000" />
+      <workItem from="1610880987435" duration="12437000" />
+      <workItem from="1611069217607" duration="3390000" />
+      <workItem from="1611406545894" duration="19647000" />
     </task>
+    <task id="LOCAL-00001" summary="hw-1">
+      <created>1608472344961</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608472344962</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hw-1">
+      <created>1608475149356</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608475149356</updated>
+    </task>
+    <task id="LOCAL-00003" summary="game RPSLS">
+      <created>1610903677722</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610903677722</updated>
+    </task>
+    <task id="LOCAL-00004" summary="number.js does not give the result">
+      <created>1611409418968</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611409418968</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,5 +125,38 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hw-1" />
+    <MESSAGE value="game RPSLS" />
+    <MESSAGE value="number.js does not give the result" />
+    <option name="LAST_COMMIT_MESSAGE" value="number.js does not give the result" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="309" y="47" key="#Inspections" timestamp="1611425912279">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="309" y="47" key="#Inspections/0.0.1366.738@0.0.1366.738" timestamp="1611425912279" />
+    <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610892864478">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1610892864478" />
+    <state x="184" y="13" key="SettingsEditor" timestamp="1610902545573">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1610902545573" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1611409427585">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1611409427585" />
+    <state x="339" y="165" key="run.anything.popup" timestamp="1610898572963">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1610898572963" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1611424338389">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1611424338389" />
   </component>
 </project>

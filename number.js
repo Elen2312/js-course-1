@@ -7,7 +7,7 @@ console.log(numPC);
 
 function start() {
     let numUser, mes;
-    numUser = document.getElementById('input').value;
+    numUser = Number(document.getElementById('input').value);
     mes = document.getElementById('message');
 
     if (numUser === numPC) {
