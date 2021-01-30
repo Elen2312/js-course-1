@@ -10,11 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82d78331-3f21-4cf4-959a-f3576cf5fc44" name="Default Changelist" comment="game RPSLS">
+    <list default="true" id="82d78331-3f21-4cf4-959a-f3576cf5fc44" name="Default Changelist" comment="game bulls and cows">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guess_the_number.html" beforeDir="false" afterPath="$PROJECT_DIR$/bulls_and_cows.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/number.js" beforeDir="false" afterPath="$PROJECT_DIR$/bulls_and_cows.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bulls_and_cows.html" beforeDir="false" afterPath="$PROJECT_DIR$/bulls_and_cows.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bulls_and_cows.js" beforeDir="false" afterPath="$PROJECT_DIR$/bulls_and_cows.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +66,7 @@
       <workItem from="1611069217607" duration="3390000" />
       <workItem from="1611406545894" duration="19647000" />
       <workItem from="1611427048721" duration="113000" />
-      <workItem from="1612015835157" duration="11599000" />
+      <workItem from="1612015835157" duration="17375000" />
     </task>
     <task id="LOCAL-00001" summary="hw-1">
       <created>1608472344961</created>
@@ -104,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611427074965</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="game bulls and cows">
+      <created>1612031770598</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1612031770598</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,7 +133,8 @@
     <MESSAGE value="game RPSLS" />
     <MESSAGE value="number.js does not give the result" />
     <MESSAGE value="dfghjklkjhghjkl,kmnb" />
-    <option name="LAST_COMMIT_MESSAGE" value="dfghjklkjhghjkl,kmnb" />
+    <MESSAGE value="game bulls and cows" />
+    <option name="LAST_COMMIT_MESSAGE" value="game bulls and cows" />
   </component>
   <component name="WindowStateProjectService">
     <state x="309" y="47" key="#Inspections" timestamp="1612026244727">
@@ -142,10 +149,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1610902545573" />
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1611427076919">
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1612031777131">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1611427076919" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1612031777131" />
     <state x="339" y="165" key="run.anything.popup" timestamp="1610898572963">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
