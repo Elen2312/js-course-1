@@ -10,10 +10,28 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82d78331-3f21-4cf4-959a-f3576cf5fc44" name="Default Changelist" comment="game bulls and cows">
+    <list default="true" id="82d78331-3f21-4cf4-959a-f3576cf5fc44" name="Default Changelist" comment="game bulls and cows 1">
+      <change afterPath="$PROJECT_DIR$/1_prime_numbers/prime _numbers.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_prime_numbers/prime _numbers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-3_basket_value/basket_value.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-3_basket_value/basket_value.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_cycle/for.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bulls_and_cows.html" beforeDir="false" afterPath="$PROJECT_DIR$/bulls_and_cows.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bulls_and_cows.js" beforeDir="false" afterPath="$PROJECT_DIR$/bulls_and_cows.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_parameters.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_parameters.js" beforeDir="false" afterPath="$PROJECT_DIR$/4_cycle/for.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_operations.html" beforeDir="false" afterPath="$PROJECT_DIR$/5_pyramid/pyramid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_operations.js" beforeDir="false" afterPath="$PROJECT_DIR$/5_pyramid/pyramid.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPSLS.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/a_b.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bulls_and_cows.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bulls_and_cows.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/degree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/degree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/from_a_to_15.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/from_a_to_15.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +70,13 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ЦАРЬ\WebstormProjects\js-course-1\5_pyramid" />
+      <recent name="C:\Users\ЦАРЬ\WebstormProjects\js-course-1\for" />
+      <recent name="C:\Users\ЦАРЬ\WebstormProjects\js-course-1\Bulls and cows" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -66,7 +91,10 @@
       <workItem from="1611069217607" duration="3390000" />
       <workItem from="1611406545894" duration="19647000" />
       <workItem from="1611427048721" duration="113000" />
-      <workItem from="1612015835157" duration="17375000" />
+      <workItem from="1612015835157" duration="18716000" />
+      <workItem from="1612042723387" duration="5488000" />
+      <workItem from="1612095267148" duration="18117000" />
+      <workItem from="1612280544682" duration="5611000" />
     </task>
     <task id="LOCAL-00001" summary="hw-1">
       <created>1608472344961</created>
@@ -110,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612031770598</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="game bulls and cows 1">
+      <created>1612041362789</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1612041362789</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,7 +169,8 @@
     <MESSAGE value="number.js does not give the result" />
     <MESSAGE value="dfghjklkjhghjkl,kmnb" />
     <MESSAGE value="game bulls and cows" />
-    <option name="LAST_COMMIT_MESSAGE" value="game bulls and cows" />
+    <MESSAGE value="game bulls and cows 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="game bulls and cows 1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="309" y="47" key="#Inspections" timestamp="1612026244727">
@@ -149,17 +185,17 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1610902545573" />
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1612031777131">
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1612041369032">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1612031777131" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1612041369032" />
     <state x="339" y="165" key="run.anything.popup" timestamp="1610898572963">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1610898572963" />
-    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1611424338389">
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1612047544037">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1611424338389" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1612047544037" />
   </component>
 </project>
