@@ -10,10 +10,42 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82d78331-3f21-4cf4-959a-f3576cf5fc44" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/admin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temperature.js" afterDir="false" />
+    <list default="true" id="82d78331-3f21-4cf4-959a-f3576cf5fc44" name="Default Changelist" comment="hw-3">
+      <change afterPath="$PROJECT_DIR$/1_books/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_books/.idea/Black BookShop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_books/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_books/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_books/css/style.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_books/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_books/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_books/libs/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_books/libs/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_books/libs/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_books/libs/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_books/libs/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_books/libs/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_books/libs/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_books/libs/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_books/libs/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_books/libs/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_books/libs/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_books/libs/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_books/libs/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_books/libs/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_convert/convert.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_convert/convert.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_prime_numbers/prime _numbers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_prime_numbers/prime _numbers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-3_basket_value/basket_value.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-3_basket_value/basket_value.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_cycle/for.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_cycle/for.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_pyramid/pyramid.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_pyramid/pyramid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bulls_and_cows/bulls_and_cows.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bulls_and_cows/bulls_and_cows.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +61,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="hw-3" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lvDS6nccfykMv7wolDZ97VPfBu" />
@@ -44,8 +81,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="E:/Учеба" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ЦАРЬ\WebstormProjects\js-course-1\5_pyramid" />
+      <recent name="C:\Users\ЦАРЬ\WebstormProjects\js-course-1\for" />
+      <recent name="C:\Users\ЦАРЬ\WebstormProjects\js-course-1\Bulls and cows" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -55,8 +99,83 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608468668486</updated>
-      <workItem from="1608468670275" duration="2655000" />
+      <workItem from="1608468670275" duration="3597000" />
+      <workItem from="1610880936199" duration="18000" />
+      <workItem from="1610880987435" duration="12437000" />
+      <workItem from="1611069217607" duration="3390000" />
+      <workItem from="1611406545894" duration="19647000" />
+      <workItem from="1611427048721" duration="113000" />
+      <workItem from="1612015835157" duration="18716000" />
+      <workItem from="1612042723387" duration="5488000" />
+      <workItem from="1612095267148" duration="18117000" />
+      <workItem from="1612280544682" duration="5800000" />
+      <workItem from="1614439988635" duration="7414000" />
+      <workItem from="1616336302430" duration="7609000" />
     </task>
+    <task id="LOCAL-00001" summary="hw-1">
+      <created>1608472344961</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608472344962</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hw-1">
+      <created>1608475149356</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608475149356</updated>
+    </task>
+    <task id="LOCAL-00003" summary="game RPSLS">
+      <created>1610903677722</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610903677722</updated>
+    </task>
+    <task id="LOCAL-00004" summary="number.js does not give the result">
+      <created>1611409418968</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611409418968</updated>
+    </task>
+    <task id="LOCAL-00005" summary="dfghjklkjhghjkl,kmnb">
+      <created>1611427074965</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1611427074965</updated>
+    </task>
+    <task id="LOCAL-00006" summary="game bulls and cows">
+      <created>1612031770598</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1612031770598</updated>
+    </task>
+    <task id="LOCAL-00007" summary="game bulls and cows 1">
+      <created>1612041362789</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1612041362789</updated>
+    </task>
+    <task id="LOCAL-00008" summary="hw-3">
+      <created>1612288400095</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1612288400095</updated>
+    </task>
+    <task id="LOCAL-00009" summary="hw-3">
+      <created>1612288419325</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1612288419325</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,5 +191,42 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hw-1" />
+    <MESSAGE value="game RPSLS" />
+    <MESSAGE value="number.js does not give the result" />
+    <MESSAGE value="dfghjklkjhghjkl,kmnb" />
+    <MESSAGE value="game bulls and cows" />
+    <MESSAGE value="game bulls and cows 1" />
+    <MESSAGE value="hw-3" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw-3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="309" y="47" key="#Inspections" timestamp="1612026244727">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="309" y="47" key="#Inspections/0.0.1366.738@0.0.1366.738" timestamp="1612026244727" />
+    <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610892864478">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1610892864478" />
+    <state x="184" y="13" key="SettingsEditor" timestamp="1610902545573">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1610902545573" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1612288428174">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1612288428174" />
+    <state x="339" y="165" key="run.anything.popup" timestamp="1612288320818">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1612288320818" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1612047544037">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1612047544037" />
   </component>
 </project>
